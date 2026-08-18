@@ -1,6 +1,7 @@
 # Opportune
 
 **Discover. Prepare. Apply. Never Miss an Opportunity.**
+
 visit website for demo https://opportune-scholar.netlify.app/
 
 
