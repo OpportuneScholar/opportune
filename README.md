@@ -1,6 +1,8 @@
 # Opportune
 
 **Discover. Prepare. Apply. Never Miss an Opportunity.**
+visit website for demo https://opportune-scholar.netlify.app/
+
 
 A student-first platform prototype that helps students discover relevant scholarships and opportunities, understand eligibility, organize documents, track deadlines, and reach the official application portal. Built for the SIH 2026 internal hackathon.
 
